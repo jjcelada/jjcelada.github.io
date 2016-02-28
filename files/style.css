@@ -1,0 +1,31 @@
+body {
+    background-color: #f1f1f1;
+}
+
+.main-block, .footer {
+    color: dimgray;
+    text-align: center;
+    font-family: Consolas, sans-serif;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', Helvetica, sans-serif;
+    font-size: 52px;
+}
+#banner {
+    padding-top: 10%;
+}
+
+#subtitle {
+    padding-bottom: 40px;
+}
+/*FOOTER ELEMENTS*/
+.footer {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+}
+
+#attribution {
+    font-size: 0.75em;
+}
